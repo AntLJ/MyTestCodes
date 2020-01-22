@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "URLDownloadToFile", "URLDownloadToFile.vcxproj", "{76CCE895-A069-4D13-B965-CE175CE48BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76CCE895-A069-4D13-B965-CE175CE48BA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76CCE895-A069-4D13-B965-CE175CE48BA0}.Debug|Win32.Build.0 = Debug|Win32
+		{76CCE895-A069-4D13-B965-CE175CE48BA0}.Release|Win32.ActiveCfg = Release|Win32
+		{76CCE895-A069-4D13-B965-CE175CE48BA0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
